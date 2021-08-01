@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Andromeda",
+    "editor.fontFamily": "'Cascadia Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "files.autoSave": "afterDelay",
+    "typescript.npm": ""
+}

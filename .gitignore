@@ -1,0 +1,6 @@
+# Visual Studio Code
+Code/*
+!Code/User
+Code/User/*
+!Code/User/settings.json
+
