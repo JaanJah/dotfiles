@@ -12,3 +12,9 @@ evolution/
 gtk-3.0/
 metacity/
 pulse/
+spotify/
+Thunar/
+xed/
+# TODO: Make xfce4 fit into dotfiles
+xfce4/
+yelp/
