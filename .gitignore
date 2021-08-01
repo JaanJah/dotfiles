@@ -4,3 +4,7 @@ Code/*
 Code/User/*
 !Code/User/settings.json
 
+dconf/
+discord/
+enchant/
+caja/
